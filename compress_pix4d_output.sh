@@ -1,3 +1,4 @@
+#uhurulabs
 my_array=()
 while IFS= read -r line; do
     my_array+=( "$line" )
